@@ -1,0 +1,12 @@
+body {
+	background: #33d6ff;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+li:first-letter {
+	font-size: 150%;
+}
