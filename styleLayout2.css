@@ -1,0 +1,53 @@
+.title_bar {
+	width: 600px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #020202;
+	margin-bottom: 0px;
+}
+
+.container {
+	height: 555px;
+	width: 600px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #020202;
+	margin-top: -3px;
+}
+
+.flex_container {
+	display: flex;
+	flex-direction: row;
+  	margin-top: 25px;
+  	margin-left: 5px;
+}
+
+.red_box {
+	background: #e29393;
+	height: 100px;
+	width: 125px;
+	margin-left: 10px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #020202;
+}
+
+.blue_box {
+	background: #56b7dd;
+	height: 100px;
+	width: 375px;
+	margin-left: 35px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #020202;
+}
+
+.yellow_box {
+	background: #f9f989;
+	height: 100px;
+	width: 545px;
+	margin-left: 10px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #020202;
+}
